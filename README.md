@@ -23,11 +23,6 @@ Get Spotify tracks in Hi-Res lossless FLACs — no account required.
 > * Workflow and pipeline configuration
 > * Instance and credential management
 
-## Stack
-
-**SpotiFLAC:** TypeScript, React, Go  
-**SpotiFLAC Next:** TypeScript, Svelte, Go, TagLib
-
 ## Comparison
 
 | Feature | SpotiFLAC | SpotiFLAC Next |
