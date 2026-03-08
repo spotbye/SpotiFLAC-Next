@@ -7,7 +7,7 @@ Get Spotify tracks in Hi-Res lossless FLACs — no account required.
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 > [!IMPORTANT]
-> **SpotiFLAC Next** is a separate next-generation project. It has now been released and is available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y) who support SpotiFLAC. A public release has not yet been determined.
+> **SpotiFLAC Next** is a separate next-generation project. It has now been released and is available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y) who support SpotiFLAC. If you're a supporter but cannot see the post, please **contact me via Ko-fi.** A public release has not yet been determined.
 > 
 > [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
 
