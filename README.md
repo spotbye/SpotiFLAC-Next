@@ -1,17 +1,9 @@
-![Maintenance](https://maintenance.afkarxyz.fun?v=3)
-
 # SpotiFLAC Next
 
 Get Spotify tracks in Hi-Res lossless FLACs — no account required.
 
 > [!IMPORTANT]
-> Development is progressing slowly due to the complexity of the project.
-> Deadlines may be extended if the project is not ready on time.
->
-> The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) **is back** and has been updated.
-> You can continue using the current version as usual.
->
-> **SpotiFLAC Next** is a separate next-generation project that is still under active development. Once released, it will be available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W71U0VFW) who already support SpotiFLAC, a public release has not yet been determined.
+> **SpotiFLAC Next** is a separate next-generation project. It has now been released and is available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y) who support SpotiFLAC. A public release has not yet been determined.
 > 
 > [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
 
@@ -35,6 +27,4 @@ Get Spotify tracks in Hi-Res lossless FLACs — no account required.
      
 ## Preview
 
-> We’re still at about 90% progress
-
-![SpotiFLAC-Next-dev_FGJVxaBoi7](https://github.com/user-attachments/assets/7cabbf63-77c3-4026-bfab-c96da362330d)
+![SpotiFLAC-Next-dev_Sclch0PHby](https://github.com/user-attachments/assets/d8c167b9-a315-490c-8dce-8495ec56dbaa)
