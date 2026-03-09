@@ -23,12 +23,17 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 | **Extensions** | ✗ | ✓ |
 | **Workflow** | ✗ | ✓ |
 | **Home Feed** | ✗ | ✓ |
+| **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer |
 | **Track Fetching** | Spotify Web | Spotify Web |
 | **Link Resolver** | Songlink | Songlink, Odesli |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
 | **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer |
      
-## Preview
+## Previews
 
-![SpotiFLAC-Next-dev_Sclch0PHby](https://github.com/user-attachments/assets/d8c167b9-a315-490c-8dce-8495ec56dbaa)
+![SpotiFLAC-Next-dev_qobS8XcVFu](https://github.com/user-attachments/assets/de179a86-020a-494e-801e-eb4f8aac1253)
+
+![SpotiFLAC-Next-dev_BkDYY91v6u](https://github.com/user-attachments/assets/aa600615-26e6-4bc1-9fcd-a4254b504fcc)
+
+![SpotiFLAC-Next-dev_xUmUCJS6fp](https://github.com/user-attachments/assets/c8eb89f5-8f9a-48dd-8fc5-a63034066d1c)
