@@ -6,6 +6,8 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 ![macOS](https://img.shields.io/badge/macOS-10.13%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+![SpotiFLAC-Next_Di7nT8vSQF](https://github.com/user-attachments/assets/296d8ce7-33a3-499e-bfa0-c60195b30587)
+
 > [!IMPORTANT]
 > **SpotiFLAC Next** is a separate project created as a thank-you to everyone who has supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y)
 > 
@@ -13,8 +15,6 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 
 > [!TIP]
 > If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
-
-
 
 ## Comparison
 
@@ -26,14 +26,10 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer |
 | **Track Fetching** | Spotify Web | Spotify Web |
 | **Link Resolver** | Songlink | Songlink, Odesli |
-| **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz |
+| **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
 | **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer |
      
-## Previews
+## Preview
 
-![SpotiFLAC-Next-dev_qobS8XcVFu](https://github.com/user-attachments/assets/de179a86-020a-494e-801e-eb4f8aac1253)
-
-![SpotiFLAC-Next-dev_BkDYY91v6u](https://github.com/user-attachments/assets/aa600615-26e6-4bc1-9fcd-a4254b504fcc)
-
-![SpotiFLAC-Next-dev_xUmUCJS6fp](https://github.com/user-attachments/assets/c8eb89f5-8f9a-48dd-8fc5-a63034066d1c)
+![SpotiFLAC-Next_Di7nT8vSQF](https://github.com/user-attachments/assets/4aab1fe0-05ca-45d9-a4d9-f5e654df56f4)
