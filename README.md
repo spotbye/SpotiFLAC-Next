@@ -20,9 +20,9 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 
 | Feature | SpotiFLAC | SpotiFLAC Next |
 |---------|-----------|----------------|
-| **Extensions** | ✗ | ✓ |
-| **Workflow** | ✗ | ✓ |
-| **Home Feed** | ✗ | ✓ |
+| **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
+| **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
+| **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer |
 | **Track Fetching** | Spotify Web | Spotify Web |
 | **Link Resolver** | Songlink | Songlink, Odesli |
