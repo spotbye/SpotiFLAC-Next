@@ -6,6 +6,8 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 ![macOS](https://img.shields.io/badge/macOS-10.13%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+### [Download](https://ko-fi.com/i/IW7W31VL81Y)
+
 ![SpotiFLAC-Next_Di7nT8vSQF](https://github.com/user-attachments/assets/296d8ce7-33a3-499e-bfa0-c60195b30587)
 
 > [!IMPORTANT]
