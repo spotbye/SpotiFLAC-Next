@@ -20,6 +20,8 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no 
 > [!TIP]
 > If you're a supporter but cannot see the post, please **contact me via Ko-fi.**
 
+![Ko-fi_Stats](https://kofi.afkarxyz.qzz.io/v1/stats)
+
 ## Comparison
 
 | Feature | SpotiFLAC | SpotiFLAC Next |
